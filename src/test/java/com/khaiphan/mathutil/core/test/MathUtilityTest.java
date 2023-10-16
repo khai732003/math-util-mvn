@@ -1,3 +1,5 @@
+package com.khaiphan.mathutil.core.test;
+
 import com.khaiphan.mathutil.core.MathUtility;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
